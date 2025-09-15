@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "class-variance-authority": "^0.7.1"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.2",
+    "@tailwindcss/vite": "^4.1.13",
+    "@vitest/browser": "^3.2.4",
+    "playwright": "^1.55.0",
+    "vitest": "^3.2.4",
+    "vitest-browser-preact": "^0.1.2"
+  },
+  "scripts": {
+    "test:browser": "vitest"
+  }
+}
